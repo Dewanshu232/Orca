@@ -8,26 +8,26 @@ For example, AI tutors powered by GPT-4 offer personalized learning, providing r
 # 2. System Design
 Understand the Basics
 
-Voiceflow:
+****Voiceflow****:
 A tool that helps you design and implement conversational interfaces.
 
-Knowledge Base:
+****Knowledge Base****:
 A database of common questions and answers your customers might have.
 
-GPT-4:
+****GPT-4****:
 A powerful language model from OpenAI that can generate human-like responses to any text input.
 Design the Chatbot's Workflow
 
-User Interaction:
+****User Interaction****: 
 The user interacts with the chatbot via text or voice through Voiceflow.
 
-Initial Query Handling:
+****Initial Query Handling****: 
 The chatbot first checks if the user's question matches any in the knowledge base.
 
-Fallback to GPT-4:
+****Fallback to GPT-4****:
 If the question isn't in the knowledge base, the chatbot asks GPT-4 for help.
 
-Response Delivery: 
+****Response Delivery****: 
 The chatbot sends the appropriate response back to the user.
 Set Up Your Knowledge Base
 
